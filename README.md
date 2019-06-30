@@ -1,6 +1,7 @@
 # Research-Paper-Implementations
 
 1. Neural Arithmetic Logic Units (NALU) https://arxiv.org/abs/1808.00508
+2. Dyna-Q http://incompleteideas.net/book/the-book-2nd.html
 
 ## Planned
 1. Evolving Neural Networks through
